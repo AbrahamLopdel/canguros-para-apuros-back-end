@@ -9,6 +9,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Levantar Apache y MySQL
 - Correr back end ya sea a través de eclipse (importando nuevo proyecto Maven) o a través de comandos mvn.
 - Correr front-end
-- ¡Realizar todas las pruebas que puedas desear en esta página de anuncios de canguros y padres!
+- ¡Realizar todas las pruebas que puedas desear en esta página de anuncios de canguros y padres! (Adjunto una base de datos con pruebas rápidas para facilitar la interacción con la página web) 
 
 ### TFC de Grado Superior de Desarrollo de Aplicaciones Web de Abraham López Delgado
